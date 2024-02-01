@@ -17,7 +17,11 @@ if(user==student && pass == password){
 cout<< "student authenticated" <<endl;
 }
 }
-void courseManagement();
+void courseManagement(){
+
+cout<<"this is course management"<<endl;
+
+}
 void studentEnrollment();
 void discussionForums();
 void liveSessions();
