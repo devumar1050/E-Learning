@@ -22,7 +22,11 @@ void courseManagement(){
 cout<<"this is course management"<<endl;
 
 }
-void studentEnrollment();
+void studentEnrollment(){
+
+cout<<"This is feature student Enrollement"<<endl;
+
+}
 void discussionForums();
 void liveSessions();
 void gradingStudents();
